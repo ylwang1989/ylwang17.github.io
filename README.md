@@ -10,6 +10,10 @@ This is the repository for my personal website.
 
 - **Aug 2025:** My personal website have been implemented.
 
+## Count of view
+
+![](https://komarev.com/ghpvc/?username=ylwang17)
+
 ## Star History
 
 **If you like it, please STAR it! 🥰**
