@@ -5,7 +5,7 @@ title: 主页中文版
 ---
 
 ## 关于我
-<img src="https://ylwang17.github.io/images/wyls.jpg" class="floatpic">
+<img src="https://ylwang17.github.io/images/wwws.jpg" class="floatpic">
 <br>本课题组研究聚焦计算纳米流体与界面工程，基于理论模拟、机器学习与实验结合的手段，致力于从微观视角研究绿色过程，进而形成新型高效的绿色技术。
 
 <br>目前课题组主要有三个研究方向：
